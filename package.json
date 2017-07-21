@@ -1,0 +1,22 @@
+{
+  "name": "openpgp-wrapper",
+  "version": "1.1.0",
+  "description": "little wrapper around the npm's openpgp module",
+  "main": "wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drulac/openpgpWrapper.js.git"
+  },
+  "author": "Drulac <drulac@protonmail.com> (https://github.com/Drulac/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Drulac/openpgpWrapper.js/issues"
+  },
+  "homepage": "https://github.com/Drulac/openpgpWrapper.js#readme",
+  "keywords": [
+    "openpgp"
+  ]
+}
