@@ -1,7 +1,6 @@
 # openpgpWrapper.js
 little wrapper around the npm's openpgp module
 
-simple code sample :
 ```javascript
 const OpenPGP = require('wrapper.js');
 
