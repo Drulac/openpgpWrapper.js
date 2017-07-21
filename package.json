@@ -1,6 +1,6 @@
 {
   "name": "openpgp-wrapper",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "little wrapper around the npm's openpgp module",
   "main": "wrapper.js",
   "scripts": {
