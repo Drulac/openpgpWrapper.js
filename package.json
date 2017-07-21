@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Drulac/openpgpWrapper.js#readme",
   "keywords": [
     "openpgp"
-  ]
+  ],
+  "dependencies": {
+    "openpgp": "^2.5.6"
+  },
+  "devDependencies": {}
 }
