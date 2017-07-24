@@ -2,7 +2,7 @@
 little wrapper around the npm's openpgp module
 
 ```javascript
-const OpenPGP = require('wrapper.js');
+const OpenPGP = require('openpgp-wrapper');
 
 (async()=>{
 	let pgp = new OpenPGP();
